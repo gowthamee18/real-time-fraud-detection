@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+duckdb
+google-cloud-aiplatform
+google-auth
+matplotlib
+jupyter
+ipython
